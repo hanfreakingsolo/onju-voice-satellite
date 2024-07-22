@@ -1,7 +1,7 @@
 substitutions:
   name: "onju-voice"
   friendly_name: "Onju Voice Satellite"
-  project_version: "1.0.0"
+  project_version: "1.0.1"
   device_description: "Onju Voice Satellite with ESPHome software and microWakeWord"
 external_components:
   - source:
